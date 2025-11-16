@@ -1,0 +1,1 @@
+This program converts any text input into an audio file where an old Chinese lady  reads each hexadecimal digit of the input text. A random sound effect is placed after every digit. When listening just note down all of the numbers she says. Sometimes she pronounces 2 as "you" and "8" and "Ahgt"
